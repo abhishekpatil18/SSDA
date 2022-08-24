@@ -1,4 +1,4 @@
 Git Practice  push and pull
 I am editing this file
 
-I am Damodhar jADHAO
+I am Damodhar jadhao
